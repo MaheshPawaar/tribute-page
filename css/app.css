@@ -55,3 +55,9 @@ img {
 #tribute-info p {
     margin-bottom: 1rem;
 }
+
+.container{
+    max-width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
